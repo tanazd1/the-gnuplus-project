@@ -1,0 +1,5 @@
+#void-norm(printf, ...) {
+    // Placeholder for stdio wrapper
+    r(0);
+}
+-endeof
