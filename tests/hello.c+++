@@ -1,0 +1,7 @@
+include "stdio.c+++h"
+
+#int-norm(main) {
+    printf("Hello, GNU+ World!\n");
+    r(0);
+}
+-endeof
